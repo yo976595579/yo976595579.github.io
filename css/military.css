@@ -31,21 +31,9 @@ img,.side-bar-card {
   color: #333;
 }
 
-/*轮播样式自适应*/
-#carousel-example-generic{
-	height: 100px;
-}
-#carousel-example-generic .carousel-inner .item img {
-			display: block;
-			width: 100%;
-			height: 100px;		
-}
 
 /*row1内容的样式*/
 
-.row{
-	padding-top: 20px;
-}
 
 .side-bar .list-group-item {
   border-right: 0;
@@ -72,7 +60,7 @@ img,.side-bar-card {
   background:#4682B4;
   color: white;
 }
-
+/*轮播样式自适应*/
 .row #carousel-example{
 	height: 400px;
 }
