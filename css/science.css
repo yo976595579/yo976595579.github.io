@@ -136,9 +136,11 @@ a:hover{
 }
 
 .media{
-	padding-top: 10px;
+	padding-top: 5px;
 }
-
+.medias{
+	padding-top:10px;
+}
 .lines{
   height:0;
   padding-bottom: 20px;
