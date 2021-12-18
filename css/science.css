@@ -226,11 +226,30 @@ a:hover{
 }
 
 /* 内容arrow end */
-.footer {
-  margin-top: 20px;
-  padding: 50px 0;
-  text-align: center;
-  color: #999;
+footer { 
+	margin-top: 50px;
+  	text-align: center;
+  	
 }
+.Copyright { 
+	text-align: center; 
+	margin: 10px 0 0 }
+.Copyright a{
+	color: #000000; 
+}
+.Copyright a:hover{
+	color: #f16e50; 
+}
+.Copyright ul a { 
+	color: #000000; 
+	display: inline; 
+	padding: 0 10px; }
+.Copyright ul a:hover{
+		color: #f16e50; 
+	}
+.Copyright ul a:nth-child(-n+7) { 
+	border-right: #999 1px solid;
+	}
+
 
 
